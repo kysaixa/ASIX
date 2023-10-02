@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"ef07bad94c899383","type":"text","text":"M02\n---","x":-454,"y":-80,"width":157,"height":59,"color":"#8c00ff"},
+		{"id":"10c01da9783574ae","type":"text","text":"11:00 - 11:30","x":-580,"y":-21,"width":911,"height":50},
+		{"id":"9886c9f54ac75558","type":"text","text":"Tutoria\n---","x":-297,"y":-80,"width":157,"height":59,"color":"6"},
+		{"id":"0ea2935a7e5f00cf","type":"text","text":"10:00","x":-580,"y":-80,"width":126,"height":59},
+		{"id":"e30658c439a2da12","type":"text","text":"10:00","x":-580,"y":-139,"width":126,"height":59},
+		{"id":"323045ee0b3f58e2","type":"text","text":"8:00","x":-580,"y":-198,"width":126,"height":59},
+		{"id":"a1a29ba8557fd510","type":"text","text":"M09 \n------------\n","x":-297,"y":-198,"width":157,"height":118,"color":"#04ff00"},
+		{"id":"72a9eb2d0cca2266","type":"text","text":"Dilluns","x":-454,"y":-258,"width":157,"height":60,"color":"1"},
+		{"id":"fc912e45a764e707","type":"text","text":"Dimarts","x":-297,"y":-258,"width":157,"height":60,"color":"2"},
+		{"id":"730b959cae1cbb42","type":"text","text":"Dimecres","x":-140,"y":-258,"width":157,"height":60,"color":"3"},
+		{"id":"c6e7e0a98d5fbbf1","type":"text","text":"Dijous","x":17,"y":-258,"width":157,"height":60,"color":"4"},
+		{"id":"906df4211bcdb59b","type":"text","text":"M12 \n------------\n","x":-140,"y":-198,"width":157,"height":118,"color":"#a6ff00"},
+		{"id":"5a5d7762980b1828","type":"text","text":"M03\n---","x":-140,"y":-80,"width":157,"height":59,"color":"3"},
+		{"id":"9f70562995356759","type":"text","text":"11:30","x":-580,"y":29,"width":126,"height":59},
+		{"id":"943755609c33e4b2","type":"text","text":"12:30","x":-580,"y":88,"width":126,"height":59},
+		{"id":"682014e26198f7c1","type":"text","text":"13:30","x":-580,"y":147,"width":126,"height":59},
+		{"id":"799a7baa04c7a5f6","type":"text","text":"14:30","x":-580,"y":206,"width":911,"height":50},
+		{"id":"bf2a1d9b5e0a3e9f","type":"text","text":"M07\n---","x":-454,"y":88,"width":157,"height":118,"color":"#00b87a"},
+		{"id":"d336a5222b1dd444","type":"text","text":"M04\n---","x":-297,"y":29,"width":157,"height":177,"color":"1"},
+		{"id":"d459cb1b0e6f6ab4","type":"text","text":"M03\n---","x":-140,"y":29,"width":157,"height":118,"color":"3"},
+		{"id":"5760d170771efbc8","type":"text","text":"M03\n---","x":17,"y":-198,"width":157,"height":177,"color":"3"},
+		{"id":"4e41ab580595f2bb","type":"text","text":"Divendres","x":174,"y":-258,"width":157,"height":60,"color":"5"},
+		{"id":"97e9dad058ac018e","type":"text","text":"M02\n---","x":-454,"y":29,"width":157,"height":59,"color":"#8c00ff"},
+		{"id":"bdf7933b8daa21c9","type":"text","text":"M02\n---","x":174,"y":29,"width":157,"height":177,"color":"#8c00ff"},
+		{"id":"72c5bc55de7df4ef","type":"text","text":"M07\n---","x":17,"y":88,"width":157,"height":118,"color":"#00b87a"},
+		{"id":"5a2d795b7a2e3c96","type":"text","text":"M01\n---","x":17,"y":29,"width":157,"height":59,"color":"#4268ff"},
+		{"id":"8c24bb8493b5ebcd","type":"text","text":"M01\n---","x":174,"y":-198,"width":157,"height":177,"color":"#4268ff"}
+	],
+	"edges":[]
+}
